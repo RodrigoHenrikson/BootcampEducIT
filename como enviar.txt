@@ -1,0 +1,4 @@
+Mandar un mail a prfsebastianledesma@gmail.com con el asunto "Proyecto Bootcamp - TUNOMBRE" . 
+
+El contenido del mail debe ser un .zip (o un link a un Drive) con el código
+(O a Git)
